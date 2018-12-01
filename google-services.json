@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "51083324387",
+    "firebase_url": "https://fir-656b7.firebaseio.com",
+    "project_id": "fir-656b7",
+    "storage_bucket": "fir-656b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51083324387:android:f594b4699367760a",
+        "android_client_info": {
+          "package_name": "com.edreayuki.yumul.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51083324387-tr1uamp5hgv5sifmc3apetjimhd9878d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29cJbMoz5051JFgm9xcDj0gaHzOFsfeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

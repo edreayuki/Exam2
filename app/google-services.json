@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "244261017688",
+    "firebase_url": "https://fir-656b7.firebaseio.com/",
+    "project_id": "fir-656b7",
+    "storage_bucket": "fir-656b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244261017688:android:f594b4699367760a",
+        "android_client_info": {
+          "package_name": "com.edreayuki.yumul.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244261017688-mqa8u7h237gg4bcdafmfu1fs22snalsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edreayuki.yumul.exam2",
+            "certificate_hash": "ec47b27cb51bdce8999b8e177c28b3667453b819"
+          }
+        },
+        {
+          "client_id": "244261017688-cp4i6h4gg515hf15fb0lgdstn44s9nmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edreayuki.yumul.exam2",
+            "certificate_hash": "1a619675c1387119c470502f7c10eab7e8f11434"
+          }
+        },
+        {
+          "client_id": "244261017688-q9k6ck7ju9ga20l0oa96qhm20mr3auq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1dYOrkny1LQQqcxnRoQIIf9IV0W-3umk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244261017688-q9k6ck7ju9ga20l0oa96qhm20mr3auq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244261017688:android:14c83ac1caf80453",
+        "android_client_info": {
+          "package_name": "com.yumul.edreayuki.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244261017688-2o2e4pscgl949bioi05ak1e8sdt2s6fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yumul.edreayuki.firebase",
+            "certificate_hash": "ec47b27cb51bdce8999b8e177c28b3667453b819"
+          }
+        },
+        {
+          "client_id": "244261017688-q9k6ck7ju9ga20l0oa96qhm20mr3auq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1dYOrkny1LQQqcxnRoQIIf9IV0W-3umk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244261017688-q9k6ck7ju9ga20l0oa96qhm20mr3auq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
